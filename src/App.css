@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+
+h1 {
+  font-size: 75px;
+  color: white;
+  margin: 0;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  transition: transform 2s, color 2s;
+}
+
+h1:hover {
+  transform: scale(1.2);
+  color: #945202;
+}

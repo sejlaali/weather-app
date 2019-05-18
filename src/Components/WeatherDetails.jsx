@@ -6,7 +6,7 @@ class WeatherDetails extends Component {
 render() {
     return (
         <div className="weather-details">
-            <h2>{this.props.info}</h2>
+            <h4>{this.props.info}</h4>
             <img src={this.props.image} />
         </div>
     )
