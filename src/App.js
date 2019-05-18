@@ -1,10 +1,11 @@
 import React, { Component } from "react";
-import "./style.css";
+import "./App.css";
 import Input from "./Components/Input"
 
 class App extends Component {
   render() {
-    return <div className="App">Weather App!
+    return <div className="App">
+    <h1>Weather App!</h1>
     <Input />
     </div>
 
