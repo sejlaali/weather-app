@@ -1,8 +1,10 @@
 # Weather App
 
-#### Using React.js, I built a weather app that handles city or zip code input from the user and renders weather based on input value. 
+## Introduction
+Using React.js, I built a weather app that renders infromation about a specific city or zip code, based on user input.
 
-## External Libraries/APIs Used:
--Moment.js <br/>
--Open Weather Map API
+## Technologies:
+*React.js <br/>
+*Moment.js <br/>
+*Open Weather Map API
 
