@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Weather App!!!
 
 Wait a second... I think I've heard that before...
@@ -25,3 +26,6 @@ Ponder this (*React way of thinking*):
 - How/when would you change state?
 - What way will you make the API call?
 - What Components will you have?
+=======
+# weather-app
+>>>>>>> ef4c720621430818af02c4f774d6c193a44c93a8
